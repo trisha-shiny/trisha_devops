@@ -1,4 +1,3 @@
 This is first file
 A new file.
 A new line
-This is done for revert command
