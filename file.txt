@@ -1,1 +1,2 @@
 This is first file
+A new file.
